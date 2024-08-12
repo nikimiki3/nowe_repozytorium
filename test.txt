@@ -1,0 +1,5 @@
+git commit -m "Zmieniono plik test.txt"
+git checkout main
+git merge develop
+git log
+
